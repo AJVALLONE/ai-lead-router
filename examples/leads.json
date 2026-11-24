@@ -1,0 +1,11 @@
+[
+  {"id": "L-1001", "source": "Meta", "email": "dana@gmail.com", "phone": "(757) 555-0142", "completed_quiz": true,
+   "quiz": {"timeline": "this week", "budget": "ready to invest", "goal": "energy"},
+   "free_text": "I've been exhausted for months and my doctor ran out of ideas. Want to start ASAP."},
+  {"id": "L-1002", "source": "Google", "email": "mike@outlook.com", "phone": "", "completed_quiz": true,
+   "quiz": {"timeline": "this month", "budget": "depends on price", "goal": "sleep"}, "free_text": ""},
+  {"id": "L-1003", "source": "Meta", "email": "x@test.com", "phone": "555", "completed_quiz": false,
+   "quiz": {"timeline": "just researching"}, "free_text": "lol just clicking around"},
+  {"id": "L-1004", "source": "Referral", "email": "jo@yahoo.com", "phone": "7575550199", "dnc": true,
+   "quiz": {"timeline": "this week"}}
+]
